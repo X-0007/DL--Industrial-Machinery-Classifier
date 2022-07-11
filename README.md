@@ -1,2 +1,2 @@
 # DL--Industrial-Machinery-Classifier
-Repo. for Industrial Machinery Classification Project
+Repo. for Industrial Machinery Classification Project.
